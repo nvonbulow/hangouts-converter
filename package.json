@@ -1,0 +1,16 @@
+{
+  "name": "hangouts-converter",
+  "version": "1.0.0",
+  "description": "Convert Google Takeout's Hangouts.js to an XML based SMS store",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "xml-escape": "^1.1.0",
+    "xml-js": "^1.0.2"
+  }
+}
