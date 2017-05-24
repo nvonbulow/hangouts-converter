@@ -1,4 +1,5 @@
-var Hangouts = require("./Hangouts.js");
+require('babel-register');
+var Hangouts = require("./HangoutsES5.js");
 let xmljs = require('xml-js');
 
 var hangoutsJson = require("./Hangouts.json");
